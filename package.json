@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/record-to-trading-vue-data",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Map a talib-record to trading-vue data format",
   "main": "dist/record-to-trading-vue-data.js",
   "types": "dist/record-to-trading-vue-data.d.ts",
